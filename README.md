@@ -1,0 +1,1 @@
+Function that flattens an Array
